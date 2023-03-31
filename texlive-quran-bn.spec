@@ -1,6 +1,6 @@
 Name:		texlive-quran-bn
 Version:	57602
-Release:	1
+Release:	2
 Summary:	Bengali translations to the quran package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quran-bn
